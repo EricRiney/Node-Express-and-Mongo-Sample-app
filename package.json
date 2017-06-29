@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Node-Express-and-Mongo-Sample-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "lol"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricRiney/Node-Express-and-Mongo-Sample-app.git"
+  },
+  "author": "Eric Riner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricRiney/Node-Express-and-Mongo-Sample-app/issues"
+  },
+  "homepage": "https://github.com/EricRiney/Node-Express-and-Mongo-Sample-app#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.0"
+  }
+}
